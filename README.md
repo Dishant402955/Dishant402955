@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **My portfolio website**
 
-- 🌱 I’m currently learning **React JS and Tailwind CSS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Frontend**
 
