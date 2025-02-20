@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **My portfolio website**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **dishantradadiya3036@gmail.com**
 
