@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishant402955&label=Profile%20views&color=0e75b6&style=flat" alt="dishant402955" /> </p>
 
-- 🔭 I’m currently working on **My portfolio website**
+- 🔭 I’m currently working on **2FA nextauth.js project**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js & nextauth.js**
 
 - 💬 Ask me about **MERN Stack**
 
