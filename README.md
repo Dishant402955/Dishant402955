@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishant402955&label=Profile%20views&color=0e75b6&style=flat" alt="dishant402955" /> </p>
 
-- 🔭 I’m currently working on **Library Management System(group project)**
+- 🔭 I’m currently working on **Screen Recording toll inspired by Loom**
 
-- 🌱 I’m currently learning **Next.js & nextauth.js**
+- 🌱 I’m currently learning **Angular & ASP.NET core**
 
 - 💬 Ask me about **Next.js**
 
